@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kasey
+name: Casey
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Resident Failson
+role: Professor of Postmodern<br>Neo-Marxist Studies
 
 # Organizations/Affiliations
 organizations:
-- name: My Mom's House
+- name: Prager University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm probably crying right now.
+bio: I'm lonely.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Loneliness
+- Marxist Psychology
+- Hot Rights
 
 education:
   courses:
-  - course: BA in Psychology
-    institution: The University of the South
-    year: 2019
-  - course: Certificate in Neurotic Homosexuality
+  - course: PhD in CBD
+    institution: The New School
+    year: 
+  - course: BA in BS
+    institution: University of the South
+    year: 
+  - course: Gay Nerd Diploma
     institution: North Carolina School of Science and Mathematics
-    year: 2014
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,4 +70,19 @@ user_groups:
 - Visitors
 ---
 
-The only important thing to know about me is that I did this to impress girls. *Victoria please call me.*
+I graduated from one of America's smallest liberal arts colleges with two friends. Now, I'm using my knowledge to help struggling Internet freaks make it in this lonely world.
+
+<p>&nbsp;</p>
+### Testimonials
+
+"Failure to thrive" *- EMT, circa 2015*
+
+"The saddest person I know" *- Assisting Editor at [Respected Literary Magazine]*
+
+"Very forgettable" *- High School Classmate*
+
+"I think we should break up" *- My Girlfriend*
+
+"That is NOT my child" *- My Mom, moments after my birth*
+
+"..." *- Everyone*
