@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 135  # Order that this section will appear.
 
 title = "Brought to You By"
 subtitle = ""
@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "facebook"
   icon_pack = "fab"
-  name = "Zuckbot 3000"
+  name = "Your Grandpa"
   description = ""
   
 [[feature]]
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "twitter"
   icon_pack = "fab"
-  name = "Russian Bots"
+  name = "Reply Guys International"
   description = ""  
   
 [[feature]]
@@ -59,7 +59,7 @@ subtitle = ""
 [[feature]]
   icon = "reddit"
   icon_pack = "fab"
-  name = "r/relationships"
+  name = "u/[deleted]"
   description = ""
   
 [[feature]]
@@ -73,12 +73,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "Cringe Posting III"
   description = "*Return of the Pod*"
-  
-[[feature]]
-  icon = "discord"
-  icon_pack = "fab"
-  name = "Gamer Posting"
-  description = ""
   
 [[feature]]
   icon = "medium"
@@ -99,15 +93,15 @@ subtitle = ""
   description = "*In Soviet Amerika, web logs YOU*"
   
 [[feature]]
-  icon = "kickstarter"
+  icon = "patreon"
   icon_pack = "fab"
-  name = "Grift Posting"
+  name = "Griftbusters"
   description = ""
   
 [[feature]]
   icon = "linkedin"
   icon_pack = "fab"
-  name = "Boot Licking"
+  name = "Bootlickers Anonymous"
   description = ""
   
 [[feature]]

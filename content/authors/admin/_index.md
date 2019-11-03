@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm lonely.
+bio: kpunk wannabe
 
 interests:
 - Loneliness
@@ -75,14 +75,17 @@ I graduated from one of America's smallest liberal arts colleges with two friend
 <p>&nbsp;</p>
 ### Testimonials
 
-"Failure to thrive" *- EMT, circa 2015*
 
-"The saddest person I know" *- Assisting Editor at [Respected Literary Magazine]*
+"One of the most unique individuals I've ever met" *- Former Therapist*
 
 "Very forgettable" *- High School Classmate*
+
+"Embodiment of the Divine Feminine" *- Another Therapist*
 
 "I think we should break up" *- My Girlfriend*
 
 "That is NOT my child" *- My Mom, moments after my birth*
+
+"Failure to thrive" *- EMT, circa 2015*
 
 "..." *- Everyone*
