@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I graduated from one of America's smallest liberal arts colleges with two friends. Now, I'm using my knowledge to help struggling Internet freaks make it in this lonely world.
+I graduated from one of America's smallest liberal arts colleges with no friends. Now, I'm using my knowledge to help struggling Internet freaks make it in this lonely world.
 
 <p>&nbsp;</p>
 ### Testimonials
@@ -86,6 +86,6 @@ I graduated from one of America's smallest liberal arts colleges with two friend
 
 "That is NOT my child" *- My Mom, moments after my birth*
 
-"Failure to thrive" *- EMT, circa 2015*
+"Failure to thrive" *- Paramedic, circa 2015*
 
 "..." *- Everyone*

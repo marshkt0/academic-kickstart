@@ -35,19 +35,19 @@ subtitle = ""
 [[feature]]
   icon = "instagram"
   icon_pack = "fab"
-  name = "Influencers"
+  name = "Your Ex"
   description = ""
   
 [[feature]]
   icon = "tumblr"
   icon_pack = "fab"
-  name = "Horny Teens"
+  name = "Horny Teen Coven"
   description = ""
   
 [[feature]]
   icon = "snapchat"
   icon_pack = "fab"
-  name = "Sex Posting"
+  name = "The Gender Swap Filter"
   description = ""
   
 [[feature]]
@@ -65,14 +65,14 @@ subtitle = ""
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
-  name = "Cringe Posting II"
+  name = "Epic Logic King"
   description = ""
   
 [[feature]]
   icon = "soundcloud"
   icon_pack = "fab"
-  name = "Cringe Posting III"
-  description = "*Return of the Pod*"
+  name = "Every Podcaster You Know"
+  description = "*Read: Your friends*"
   
 [[feature]]
   icon = "medium"
