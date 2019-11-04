@@ -19,5 +19,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 I'm bringing blogging back... Them other op-eds don't know how to act

@@ -18,5 +18,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 love too talk about the immortal science of dialectical materialism
