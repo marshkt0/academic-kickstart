@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 Let's gooooo
 
@@ -40,3 +41,6 @@ Let's gooooo
   - access to resources/opportunities
   - worker solidarity/social movements
   - The Utopian Communist Vision
+  - and more!
+  
+- but you're probably not here for this clinical bullshit!

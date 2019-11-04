@@ -21,9 +21,9 @@ organizations:
 bio: kpunk wannabe
 
 interests:
-- Loneliness
-- Marxist Psychology
-- Hot Rights
+- Depression Cuisine
+- The Murder of Jeffery Epstein
+- Criminalizing Horniness
 
 education:
   courses:
