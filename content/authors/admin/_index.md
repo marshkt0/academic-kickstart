@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: kpunk wannabe
+bio: k-punk wannabe
 
 interests:
 - Depression Cuisine
