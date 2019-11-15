@@ -17,38 +17,38 @@ subtitle = ""
 [[feature]]
   icon = "facebook"
   icon_pack = "fab"
-  name = "Your Grandpa"
-  description = ""
+  name = "Some Horny Undergrad"
+  description = "*Was this the face that launched a thousand bots?*"
   
 [[feature]]
   icon = "twitch"
   icon_pack = "fab"
-  name = "Zoomer Posting"
+  name = "69 Zoomers in a Trench Coat"
   description = ""
   
 [[feature]]
   icon = "twitter"
   icon_pack = "fab"
   name = "Reply Guys International"
-  description = ""  
+  description = "*A union proudly representing Gun Girl stans and male DSA members*"  
   
 [[feature]]
   icon = "instagram"
   icon_pack = "fab"
   name = "Your Ex"
-  description = ""
+  description = "*Some things last a long time...*"
   
 [[feature]]
   icon = "tumblr"
   icon_pack = "fab"
-  name = "Horny Teen Coven"
-  description = ""
+  name = "The Grievance Police"
+  description = "*'Bootlicker?!' ur under arrest for kink shaming uwu*"
   
 [[feature]]
   icon = "snapchat"
   icon_pack = "fab"
   name = "The Gender Swap Filter"
-  description = ""
+  description = "*Reading Queer Theory Is Canceled*"
   
 [[feature]]
   icon = "facebook-messenger"
