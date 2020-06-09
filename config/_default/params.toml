@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "In a world dominated by podcasts, one brave pedant dares to blog about loneliness in 2019. If you have no friends, this might be just the place for you."
+description = "In a world dominated by podcasts, one brave pedant dares to blog about loneliness in this year of our lord 2020. If you have no friends, this might be just the place for you."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
