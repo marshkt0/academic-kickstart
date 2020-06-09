@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Casey
+name: Dr. K Bronwen  Glyn-Llewellyn
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Postmodern<br>Neo-Marxist Studies
+role: Postmodern Neo-Marxist Studies<br>*Department Chair*
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,21 @@ organizations:
 bio: k-punk wannabe
 
 interests:
+- Hyper-Atomization
+- Neoliberal Superstructures
+- Marxian Psychiatry
+- Nociceptive Linguistics
 - Depression Cuisine
-- The Murder of Jeffery Epstein
-- Criminalizing Horniness
 
 education:
   courses:
-  - course: PhD in CBD
+  - course: PhD in Evolutionary Psychology
     institution: The New School
     year: 
   - course: BA in BS
     institution: University of the South
     year: 
-  - course: Gay Nerd Diploma
+  - course: Certificate in Homoneuroticism
     institution: North Carolina School of Science and Mathematics
     year: 
 
@@ -65,9 +67,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I graduated from one of America's smallest liberal arts colleges with no friends. Now, I'm using my knowledge to help struggling Internet freaks make it in this lonely world.

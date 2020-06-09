@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "*If you're reading this, Victoria C[REDACTED], I miss you more than anyone I've ever lost*"
+copyright = "Dedicated to VC, whom I miss more than anyone I've ever lost"
 
 ############################
 ## Advanced options below ##

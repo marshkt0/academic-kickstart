@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "facebook"
   icon_pack = "fab"
-  name = "Some Horny Undergrad"
+  name = "Some Horny Harvard Undergrad"
   description = "*Was this the face that launched a thousand bots?*"
   
 [[feature]]
   icon = "twitch"
   icon_pack = "fab"
-  name = "69 Zoomers in a Trench Coat"
+  name = "420 Zoomers<br>in a Trench Coat"
   description = ""
   
 [[feature]]
   icon = "twitter"
   icon_pack = "fab"
   name = "Reply Guys International"
-  description = "*A union proudly representing Gun Girl stans and male DSA members*"  
+  description = "*A union proudly representing<br>Gun Girl stans and DSA men alike*"  
   
 [[feature]]
   icon = "instagram"
@@ -41,8 +41,8 @@ subtitle = ""
 [[feature]]
   icon = "tumblr"
   icon_pack = "fab"
-  name = "The Grievance Police"
-  description = "*'Bootlicker?!' ur under arrest for kink shaming uwu*"
+  name = "The Tenderqueer Coven"
+  description = "*Can we not kinkshame bootlickers?*"
   
 [[feature]]
   icon = "snapchat"
@@ -60,7 +60,7 @@ subtitle = ""
   icon = "reddit"
   icon_pack = "fab"
   name = "u/[deleted]"
-  description = ""
+  description = "*[removed]*"
   
 [[feature]]
   icon = "youtube"
@@ -72,12 +72,12 @@ subtitle = ""
   icon = "soundcloud"
   icon_pack = "fab"
   name = "Every Podcaster You Know"
-  description = "*Read: Your friends*"
+  description = "*Read: Everyone You Know*"
   
 [[feature]]
   icon = "medium"
   icon_pack = "fab"
-  name = "Virgin Weakly"
+  name = "Male Virgin Weakly"
   description = ""
   
 [[feature]]
